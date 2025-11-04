@@ -1,0 +1,40 @@
+# Visual Studio
+bin/
+obj/
+*.user
+*.suo
+*.vs/
+*.vscode/
+*.cache
+*.tmp
+
+# .NET
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa]rchitecture/
+[Bb]uild/
+
+# Node / Otros
+node_modules/
+wwwroot/lib/
+
+# Archivos temporales
+*.log
+*.tmp
+*.bak
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Archivos de configuración local
+appsettings.json
+secrets.json
+
+# Archivos generados
+*.csproj.user
+*.sln.docstates
