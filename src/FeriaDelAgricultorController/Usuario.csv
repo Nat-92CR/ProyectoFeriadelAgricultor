@@ -1,0 +1,54 @@
+Name,LastName,Username,Password,TipoUsuario,Directions
+# ==== CLIENTES ====
+Natalia,Tobal,nat01,1234,Cliente,San José
+María,Jiménez,mjimenez,abcd,Cliente,Heredia
+Luis,Fernández,lfernandez,1234,Cliente,Cartago
+Ana,Mora,amora,abcd,Cliente,Alajuela
+Daniela,Rojas,drojas,1234,Cliente,San José
+Carlos,Solano,csolano,abcd,Cliente,Heredia
+Fernanda,Leiva,fleiva,abcd,Cliente,Cartago
+Gabriela,Lopez,glopez,1234,Cliente,San Ramón
+Andrés,Cordero,acordero,1234,Cliente,San José
+Jorge,Salas,jsalas,abcd,Cliente,Heredia
+Mónica,Vargas,mvargas,abcd,Cliente,Alajuela
+Patricia,Segura,psegura,1234,Cliente,Cartago
+Javier,Mata,jmata,abcd,Cliente,Heredia
+Andrea,Gómez,agomez,abcd,Cliente,San José
+Tatiana,Alpízar,talpizar,1234,Cliente,San Ramón
+Rafael,Castro,rcastro,1234,Cliente,Cartago
+Lucía,Soto,lsoto,abcd,Cliente,Heredia
+Isabel,Camacho,icamacho,abcd,Cliente,Alajuela
+Pablo,Murillo,pmurillo,1234,Cliente,San José
+Sofía,León,sleon,abcd,Cliente,Cartago
+Valeria,Ramírez,vramirez,1234,Cliente,San José
+Rodrigo,Navarro,rnavarro,abcd,Cliente,Heredia
+Santiago,Jiménez,sjimenez,abcd,Cliente,Cartago
+Camila,Araya,caraya,1234,Cliente,Alajuela
+Elena,Solís,esolis,abcd,Cliente,Heredia
+
+# ==== PRODUCTORES ====
+Pedro,Solis,psolis,1234,Productor,San Ramón
+Carlos,Rojas,crojas,abcd,Productor,San José
+Marcos,Jiménez,mjimenezp,abcd,Productor,Cartago
+Allan,Vindas,avindas,1234,Productor,Heredia
+Rosa,Picado,rpicado,abcd,Productor,San José
+Diego,Campos,dcampos,abcd,Productor,Cartago
+Gerardo,Lobo,globo,1234,Productor,Heredia
+Julio,Martínez,jmartinez,1234,Productor,San Ramón
+Fabiola,Murillo,fmurillo,abcd,Productor,San José
+Cristian,Monge,cmonge,abcd,Productor,Cartago
+Héctor,Espinoza,hespinoza,1234,Productor,Heredia
+Leticia,Durán,lduran,abcd,Productor,San José
+Raúl,Bolaños,rbolanos,1234,Productor,Cartago
+Maritza,Salazar,msalazar,abcd,Productor,San Ramón
+Juan,Bonilla,jbonilla,abcd,Productor,Heredia
+Sergio,Carvajal,scarvajal,1234,Productor,Cartago
+Mario,Jiménez,mjimenezp2,1234,Productor,San José
+Daniel,Chavarría,dchavarria,abcd,Productor,Heredia
+Flor,Acosta,facosta,abcd,Productor,San Ramón
+Claudio,Ramírez,cramirez,1234,Productor,Cartago
+Gloria,Rojas,grojas,abcd,Productor,Heredia
+Silvia,Fernández,sfernandez,abcd,Productor,San José
+Oscar,Gutiérrez,ogutierrez,1234,Productor,San Ramón
+Patricio,Brenes,pbrenes,abcd,Productor,Cartago
+Marta,Vega,mvega,abcd,Productor,Heredia

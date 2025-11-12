@@ -1,0 +1,54 @@
+Name,LastName,Username,Password,TipoUsuario,Directions
+Natalia,Tobal,nat01,1234,Cliente,San José
+María,Jiménez,mjimenez,abcd,Cliente,Heredia
+Daniela,Rojas,drojas,abcd,Cliente,Cartago
+Sofía,León,sleon,abcd,Cliente,Cartago
+Valeria,Ramírez,vramirez,abcd,Cliente,Alajuela
+Rafael,Castro,rcastro,abcd,Cliente,Heredia
+Lucía,Soto,lsoto,abcd,Cliente,Cartago
+Gabriela,López,glopez,abcd,Cliente,San Ramón
+Mónica,Vargas,mvargas,abcd,Cliente,San José
+Sandra,Camacho,scamacho,abcd,Cliente,Alajuela
+Elena,Solis,esolis,abcd,Cliente,Heredia
+Paola,Hernández,phernandez,abcd,Cliente,Cartago
+Tatiana,Gómez,tgomez,abcd,Cliente,San Ramón
+Andrea,Marín,amarin,abcd,Cliente,Heredia
+Patricia,Blanco,pblanco,abcd,Cliente,San José
+Javier,Mata,jmata,abcd,Cliente,Cartago
+Carlos,Solano,csolano,abcd,Cliente,San José
+Luis,Fernández,lfernandez,abcd,Cliente,Alajuela
+Pablo,Murillo,pmurillo,abcd,Cliente,Heredia
+Camila,Araya,caraya,abcd,Cliente,Cartago
+Laura,Gómez,lgomez,abcd,Cliente,Cartago
+Silvia,Mora,smora,abcd,Cliente,Heredia
+Fernando,Jiménez,fjimenez,abcd,Cliente,San Ramón
+Marina,Alfaro,malfaro,abcd,Cliente,San José
+Rosa,Blanco,rblanco,abcd,Cliente,Alajuela
+Pedro,Rojas,projas,1234,Productor,San Ramón
+Carlos,Rojas,crojas,abcd,Productor,San Ramón
+Pedro,Jiménez,pjimenez,1234,Productor,Cartago
+Rosa,Picado,rpicado,abcd,Productor,San José
+Diego,Campos,dcampos,abcd,Productor,Heredia
+Julián,Herrera,jherrera,abcd,Productor,San Ramón
+Mario,Cubillo,mcubillo,abcd,Productor,Alajuela
+Luis,Mora,lmora,abcd,Productor,Cartago
+Ricardo,Araya,raraya,abcd,Productor,Cartago
+Ana,Sandoval,asandoval,abcd,Productor,San José
+Sergio,Navarro,snavarro,abcd,Productor,Cartago
+Héctor,Espinoza,hespinoza,abcd,Productor,Heredia
+Gerardo,Lobo,globo,abcd,Productor,San Ramón
+Julio,Martínez,jmartinez,abcd,Productor,San José
+Fabiola,Murillo,fmurillo,abcd,Productor,Heredia
+Cristian,Monge,cmonge,abcd,Productor,Cartago
+Leticia,Durán,lduran,abcd,Productor,San José
+Raúl,Bolaños,rbolanos,abcd,Productor,San Ramón
+Maritza,Salazar,msalazar,abcd,Productor,Cartago
+Juan,Bonilla,jbonilla,abcd,Productor,Heredia
+Sergio,Carvajal,scarvajal,abcd,Productor,Cartago
+Mario,Jiménez,mjimenezp,abcd,Productor,San José
+Flor,Acosta,facosta,abcd,Productor,San Ramón
+Claudio,Ramírez,cramirez,abcd,Productor,Cartago
+Gloria,Rojas,grojas,abcd,Productor,Heredia
+Silvia,Fernández,sfernandez,abcd,Productor,San José
+Oscar,Gutiérrez,ogutierrez,abcd,Productor,San Ramón
+Patricio,Brenes,pbrenes,abcd,Productor,Cartago
