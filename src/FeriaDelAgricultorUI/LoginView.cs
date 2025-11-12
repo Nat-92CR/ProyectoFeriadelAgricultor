@@ -23,9 +23,9 @@ namespace FeriaDelAgricultorUI
             if (user != null)
             {
                 MessageBox.Show(
-                    $"Inicio de sesión exitoso.\nBienvenido {user.Name,user.lastName}.\nTipo de usuario: {user.TipoUsuario}");
+                    $"Inicio de sesión exitoso.\nBienvenid@ {user.Name}.\nTipo de usuario: {user.TipoUsuario}");
 
-                // 👉 Aquí decidimos a qué vista va según el tipo
+                // Aquí decidimos a qué vista va según el tipo
                 if (user.TipoUsuario == TipoUsuario.Cliente)
                 {
                     // Vista para clientes
